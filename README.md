@@ -1,13 +1,13 @@
 ## Aprendizados
 
-Introdução à programação web
+- Introdução à programação web
 
-Fundamentos da internet
+- Fundamentos da internet
 
-Protocolos
+- Protocolos
 
-Navegadores
+- Navegadores
 
-Cliente & servidor
+- Cliente & servidor
 
-Diferença entre front-end & back-end
+- Diferença entre front-end & back-end
